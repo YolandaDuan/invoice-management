@@ -1,0 +1,8 @@
+{
+  "name": "InvoiceManagement",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "77f76093"
+}
